@@ -4,7 +4,7 @@ body {
   background-color: white;
 }
 
-h1 {
+#title {
   font-family: 'Source Sans Pro', sans-serif;
   align-content: center;
   margin: auto;
