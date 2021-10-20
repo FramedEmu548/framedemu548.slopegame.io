@@ -1,0 +1,11 @@
+body {
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+
+h1 {
+  font-family: 'Source Sans Pro', sans-serif;
+  align-content: center;
+  margin: auto;
+}
