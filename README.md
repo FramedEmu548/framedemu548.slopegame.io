@@ -1,4 +1,4 @@
-# A quick Slope rendition
+# A quick game created by Samuel Keller.
 
 
 Created in Unity in a couple of hours.
